@@ -1,0 +1,6 @@
+{
+  "name": "Batik ARIZI — Katalog & Kalkulator Grosir",
+  "description": "Katalog produk batik premium, kalkulator harga grosir otomatis, generator invoice dan pesanan WhatsApp Batik ARIZI Solo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
